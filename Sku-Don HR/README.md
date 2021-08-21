@@ -1,0 +1,3 @@
+# HUMAN RESOURCES ANALYSIS PROJECT
+
+live demo: https://app.powerbi.com/view?r=eyJrIjoiYzUyNzYzNTAtMTUwMC00NTA1LWEwN2MtMmVmYTgyZTUxNzljIiwidCI6IjhiMGY3ZmFiLWRkN2YtNGZhYi1hYzU5LTQ3N2ZlNDFiNjhjYyJ9&pageName=ReportSection
