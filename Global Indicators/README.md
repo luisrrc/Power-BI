@@ -49,7 +49,7 @@ Countries(each point) with a high infant mortality rate will have a larger size 
 
  2) Japan (85).
  
- 3) Singapure (85).
+ 3) Singapore (85).
  
  4) Macau (84.50). 
  
@@ -81,7 +81,7 @@ Countries(each point) with a high infant mortality rate will have a larger size 
 
 **G) Top five of countries with the lowest infant mortality rate:**
 
- 1) Singapure (2.29).
+ 1) Singapore (2.29).
  
  2) Sweden (2.77).
  
