@@ -17,6 +17,6 @@ El CMI sugiere que veamos a la organización desde cuatro perspectivas, cada una
 ![image](https://user-images.githubusercontent.com/58336896/140083278-c8b75120-3bb5-4247-ae42-accf1bf9065f.png)
 
 
-A continuación un ejemplo de un reporte de cuadro de mando basado:
+A continuación un ejemplo ficticio de un reporte de cuadro de mando:
 
 https://app.powerbi.com/groups/me/reports/09a04074-2161-4a2d-9499-a90647ba4787/ReportSection?ctid=08f7a210-02d1-4136-aa57-d38db883ec2c
