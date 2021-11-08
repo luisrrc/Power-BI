@@ -1,3 +1,4 @@
+Link del Dashboard: https://app.powerbi.com/groups/me/reports/ea8035c5-bb68-4bae-bf46-701ddbec4b26/ReportSection?ctid=08f7a210-02d1-4136-aa57-d38db883ec2c
 
 ## 1) Probabilidad
 
