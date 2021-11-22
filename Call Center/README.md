@@ -1,4 +1,6 @@
 ## Análisis de Call Center
+  
+  Aquí se presenta un caso de análisis de Call Center, donde se estudia el comportamiento de una empresa destinada al servicio al cliente durante los meses de Julio a Diciembre del año 2018, la finalidad del análisis es explorar y evaluar el desempeño tanto de la empresa como de los agentes que laboran en ella, usando distintas métricas como el ASA y AHT, para así poder ayudar en la toma de decisiones para que el servicio pueda ser mas eficiente.
 
 Link: https://app.powerbi.com/groups/me/reports/b830af3b-0082-4486-8a49-bd5e6a6bbe3d?ctid=08f7a210-02d1-4136-aa57-d38db883ec2c&pbi_source=linkShare![image](https://user-images.githubusercontent.com/58336896/142878819-6bfe7c07-1b6c-42bd-b01a-0790f9925dc4.png)
 
@@ -18,5 +20,7 @@ Como resumen se puede observar que de un total de 26.575 llamadas, se atendieron
    
    Se puede ver que el promedio de ASA fue de 23.8 segundos y el de AHT 77.5, por otro lado las llamadas de abandono muestran un ASA mas elevado (53.8 segundos) mas del doble de duración.
    
-
+### Página 3 Gestión de llamadas por Agentes
+   
+   En esta página el énfasis está sobre los agentes, se explora como fue el desempeño de cada agente asi como por grupos, tanto en las métricas de ASA y AHT, llamadas atendidas y el costo de llamadas por agente. 
 
