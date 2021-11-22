@@ -16,5 +16,7 @@ Como resumen se puede observar que de un total de 26.575 llamadas, se atendieron
    
    **El AHT o Average Handle Time:** el Tiempo Medio Operativo (TMO) es una métrica que permite medir la transacción del principio al fin: desde el inicio de la llamada, el tiempo de espera, el tiempo de conversación y el After Call Work (ACW), que es el tiempo de trabajo posterior a la llamada necesario para resolverla. Ambas métricas sirven para evaluar el nivel de eficiencia que tiene el call center ya que por una parte si el ASA es bajo, significa que el cliente tarda pocos segundos en ser atendido, por el contrario si se reduce el tiempo del operador resolviendo las llamadas, mostraria un AHT bajo pero eso no garantiza un alto nivel de satisfacción por parte de los clientes.
    
+   Se puede ver que el promedio de ASA fue de 23.8 segundos y el de AHT 77.5, por otro lado las llamadas de abandono muestran un ASA mas elevado (53.8 segundos) mas del doble de duración.
+   
 
 
